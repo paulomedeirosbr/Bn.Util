@@ -1,4 +1,4 @@
-module bn.util
+module bnutil
 
 go 1.21.5
 
