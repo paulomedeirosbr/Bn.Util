@@ -1,4 +1,4 @@
-module github.com/paulomedeirosbr/bnutil
+module github.com/paulomedeirosbr/bnutil v1.00
 
 go 1.21.5
 
